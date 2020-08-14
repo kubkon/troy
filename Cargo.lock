@@ -431,6 +431,7 @@ dependencies = [
 [[package]]
 name = "spartan"
 version = "0.1.0"
+source = "git+https://github.com/kubkon/spartan?branch=public-api#795899a6d112c17aa65c1d0693a4b7585e88b111"
 dependencies = [
  "bincode",
  "byteorder",
