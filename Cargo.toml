@@ -7,4 +7,7 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-spartan = { git = "https://github.com/kubkon/spartan", branch = "public-api" }
+spartan = "0.2"
+merlin = "2"
+curve25519-dalek = "3"
+rand = "0.7"
